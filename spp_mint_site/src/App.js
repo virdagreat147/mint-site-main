@@ -9,7 +9,7 @@ function App() {
     <div className="App" style={{backgroundImage: `url(${Background})`,backgroundSize: "cover"}}>
       <header className="App-header">
       <Router><Navbar /></Router>
-      <div><Coin />
+      <div className="coinFlip"><Coin />
       </div>
       </header>
     </div>

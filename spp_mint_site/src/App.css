@@ -39,3 +39,8 @@
     transform: rotate(360deg);
   }
 }
+.coinFlip {
+  position: absolute;
+  padding-top: 20%;
+
+}
